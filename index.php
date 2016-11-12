@@ -2,10 +2,10 @@
    <head>
       <link rel="stylesheet" href="content/css/angular-material.min.css">
       <script src="script/angular.min.js"></script>
-      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.min.js"></script>
-      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-aria.min.js"></script>
-      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-messages.min.js"></script>
-      <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0/angular-material.min.js"></script>
+      <script src="script/angular-animate.min.js"></script>
+      <script src="script/angular-aria.min.js"></script>
+      <script src="script/angular-messages.min.js"></script>
+      <script src="script/angular-material.min.js"></script>
       <script type="text/javascript">    
          angular.module('firstApplication', ['ngMaterial']);
       </script>
